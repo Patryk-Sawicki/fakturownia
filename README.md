@@ -11,7 +11,7 @@ PHP client for Fakturownia (InvoiceOcean) API ([fakturownia.pl](https://fakturow
 The recommended way to install is through [Composer](http://getcomposer.org).
 
 ```bash
-$ composer require abb/fakturownia
+$ composer require patryk-sawicki/fakturownia
 ```
 
 ## Supported API tokens
@@ -60,7 +60,7 @@ Only **tokens with prefix** are supported. You can generate it in fakturownia.pl
 * getAccount()
 * createAccountForClient(array $account, array $user = [], array $company = [])
 * getPayments(array $params = [])
-* getPayment(int $id)
+* getPayment(int $id, array $params = [])
 * createPayment(array $payment)
 * getDepartments(array $params = [])
 * getDepartment(int $id)
