@@ -1,8 +1,12 @@
 {
-    "name": "abb/fakturownia",
+    "name": "patryk-sawicki/fakturownia",
     "description": "PHP client for Fakturownia API",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Patryk Sawicki",
+            "email": "patryk@patryksawicki.pl"
+        },
         {
             "name": "abb",
             "email": "abb.mail1@gmail.com"
