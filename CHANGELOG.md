@@ -1,3 +1,6 @@
+### 1.4.1
+* Allowing sending of parameter in the getPayment
+
 ### 1.4.0
 * Allowed PHP 8
 
