@@ -1,3 +1,7 @@
+### 1.4.2
+* Update payment function.
+* Delete payment function.
+
 ### 1.4.1
 * Allowing sending of parameter in the getPayment
 
